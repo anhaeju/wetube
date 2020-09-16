@@ -1,0 +1,8 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Cloning youtube with JS",
+  "main": "index.js",
+  "author": "haejuan",
+  "license": "ISC"
+}
